@@ -4,6 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TrainScene.unity
+    guid: 82a99446655e9f64c88ad6e22ee94b7a
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e2b25f0c8d4865b4f844fe4fe6e7b662, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fc8ce6ef38de844191fa4462129b3a2, type: 2}
